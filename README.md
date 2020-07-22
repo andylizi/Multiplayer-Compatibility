@@ -11,6 +11,7 @@ Requires latest Zetrith's Multiplayer: [Download](https://github.com/rwmt/Multip
 
 Support added to these mods | _
 --- | ---
+Allow Tool           | [![url][steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=761421485)
 Alpha Animals        | [![url][steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856)
 Alpha Biomes         | [![url][steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677)
 Animals Logic        | [![url][repo]](https://github.com/quicksilverfox/RimworldMods/tree/master/AnimalsLogic)
